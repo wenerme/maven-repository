@@ -1,7 +1,9 @@
 maven-repository
 ================
 
-maven-repository host on github
+Maven 中心上没有的一些内容,存放一些需要到的内容.
+
+如果想要添加,可以发起 Pull Request :smile:
 
 仓库地址
 -------
